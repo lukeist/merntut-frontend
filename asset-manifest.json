@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/merntut-frontend/static/css/main.434d85ca.css",
+    "main.js": "/merntut-frontend/static/js/main.8903208e.js",
+    "index.html": "/merntut-frontend/index.html",
+    "main.434d85ca.css.map": "/merntut-frontend/static/css/main.434d85ca.css.map",
+    "main.8903208e.js.map": "/merntut-frontend/static/js/main.8903208e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434d85ca.css",
+    "static/js/main.8903208e.js"
+  ]
+}
